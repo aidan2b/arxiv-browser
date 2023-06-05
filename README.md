@@ -2,15 +2,15 @@
 This code provides a simple user interface for browsing and fetching papers from the ArXiv repository. It uses the Streamlit library for creating the user interface and various other libraries for data retrieval and processing.
 
 ### Dependencies
-- dotenv: Used to load environment variables from a .env file.
-- streamlit: Used for creating the user interface.
-- arxiv: A Python wrapper for the ArXiv API.
-- pandas: Used for data manipulation and analysis.
-- re: Used for regular expression matching.
-- requests: Used for making HTTP requests to retrieve data.
-- bs4 (Beautiful Soup): Used for parsing HTML content.
-- json: Used for working with JSON data.
-- os: Used for interacting with the operating system.
+- **dotenv**: Used to load environment variables from a .env file.
+- **streamlit**: Used for creating the user interface.
+- **arxiv**: A Python wrapper for the ArXiv API.
+- **pandas**: Used for data manipulation and analysis.
+- **re**: Used for regular expression matching.
+- **requests**: Used for making HTTP requests to retrieve data.
+- **bs4 (Beautiful Soup)**: Used for parsing HTML content.
+- **json**: Used for working with JSON data.
+- **os**: Used for interacting with the operating system.
 
 ### Setup
 Before running the code, make sure to install the required dependencies. You can install them using pip:
